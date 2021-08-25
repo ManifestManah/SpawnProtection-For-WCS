@@ -1,0 +1,14 @@
+"Phrases"
+{
+	"Spawn Protection Text Enabled"
+	{
+		"en"			"{green}[Server] {default}The spawn protection text is now {lightgreen}turned on{default}."
+		"da"			"{green}[Server] {default}Spawn protection beskeden blev {lightgreen}slået til{default}."
+	}
+
+	"Spawn Protection Text Disabled"
+	{
+		"en"			"{green}[Server] {default}The spawn protection text is now {lightgreen}turned off{default}."
+		"da"			"{green}[Server] {default}Spawn protection beskeden blev {lightgreen}slået fra{default}."
+	}
+}
