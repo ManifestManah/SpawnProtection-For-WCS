@@ -1,0 +1,1 @@
+# SpawnProtection-For-WCS
