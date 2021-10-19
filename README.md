@@ -18,5 +18,5 @@ In order for the plugin to work, you must have the following installed:
 ## Installation
 1) Download the contents and open the downloaded zip file.
 2) Drag the addons folder in to your server's cstrike directory.
-3) Edit the cfg/sourcemod/custom_WCS_ExpBounties.cfg to fit your server's experience rates.
+3) Edit the cfg/sourcemod/custom_SpawnProtectionModule.cfg to fit your server's experience rates.
 4) Restart your server.
